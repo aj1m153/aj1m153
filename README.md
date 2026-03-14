@@ -28,4 +28,4 @@ MSBA @ Wake Forest University | Building scalable, data-powered solutions for bu
 
 ---
 
-📍 Winston-Salem, NC | Open to data analyst, business analytics, and quantitative roles
+📍 Winston-Salem, NC | Open to data analyst, business analytics,business consulting and quantitative roles
